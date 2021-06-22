@@ -1,1 +1,1 @@
-## [bootstrap-random-quote-generator](https://github.com/Yonela-Johannes/bootstrap-random-quote-generator)
+## [bootstrap-random-quote-generator](https://yonela-johannes.github.io/bootstrap-random-quote-generator)
